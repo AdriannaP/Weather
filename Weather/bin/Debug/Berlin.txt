@@ -1,0 +1,13 @@
+13.11.2018 00:33:23 Temp: 284,64 Sky Condition: clear sky Pressure: 1017
+13.11.2018 00:33:28 Temp: 284,64 Sky Condition: clear sky Pressure: 1017
+13.11.2018 09:33:11 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:16 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:21 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:26 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:31 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:36 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:41 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:47 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:51 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:33:56 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020
+13.11.2018 09:34:01 Temp: 283,12 Sky Condition: moderate rain Pressure: 1020

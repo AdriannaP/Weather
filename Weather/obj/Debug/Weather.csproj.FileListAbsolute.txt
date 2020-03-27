@@ -1,0 +1,15 @@
+C:\Repos\Weather\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Repos\Weather\Weather\Weather\bin\Debug\Weather.exe
+C:\Repos\Weather\Weather\Weather\bin\Debug\Weather.pdb
+C:\Repos\Weather\Weather\Weather\bin\Debug\RestSharp.dll
+C:\Repos\Weather\Weather\Weather\bin\Debug\RestSharp.xml
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.Form1.resources
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.cache
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.csproj.CopyComplete
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.exe
+C:\Repos\Weather\Weather\Weather\obj\Debug\Weather.pdb
+C:\Repos\Weather\Weather\Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\Weather\Weather\Weather\bin\Debug\Newtonsoft.Json.xml
